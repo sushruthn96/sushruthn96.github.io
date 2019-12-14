@@ -2,13 +2,11 @@
 layout: default
 ---
 
-# Hello, World!
-
 <p align="center">
 <img src="profile_pic.png" title="profile_pic" width="300" height="350"/>
 </p>
 
-I am Sushruth Nagesh. I consider myself as Computer Vision and Deep Learning researcher. But, I also love to do projects that are of interest to me irrespective of its domain.  
+I consider myself as Computer Vision and Deep Learning researcher. But, I also love to do projects that are of interest to me irrespective of its domain.  
 
 I am a graduate student at University of California, San Diego (UCSD) specialising in Robotics under the department of Electical and Computer Engineering. I am passionate and interested to work on real life problems in the field of Computer Vision, Deep Learning and Robotics.
 
@@ -18,21 +16,22 @@ I got my undergraduate Bachelor's in Engineering degree from Sri Jayachamarajend
 
 ## Github links
 * Open source Python Package to download, validate and upload Certificate Revocation Lists (CRL's) to HPE OneView. [Click_here](https://github.com/HewlettPackard/oneview-python-samples/tree/master/crl_helper)
-* Repository for my projects - [Click_here](https://github.com/sushruthn96)
+* Repository link for all my projects - [Click_here](https://github.com/sushruthn96)
 
 ## My projects
 ### Image Captioning using Neural Networks
 Developed a Deep learning model to generate textual description of given image. Used Resnet-152 based CNN model (Encoder) to extract features from training images. These features were feeded into an LSTM network (Decoder) to sequentially generate captions of images. This project was based on "Show and tell" model.
 
-Various experiments for improving the model efficiency based on optimizers, GloVe word embeddings, LSTM hidden layer feature size , types of Decoder models (RNN, GRU, LSTM) were carried out
+Various experiments for improving the model efficiency based on optimizers, GloVe word embeddings, LSTM hidden layer feature size , types of Decoder models (RNN, GRU, LSTM) were carried out. [Link_to_project](https://github.com/sushruthn96/Image_Captioning_ML_IP)
+
 ### Automated energy meter reading using machine learning and image processing.
-Designed and developed an image processing and CNN based system which automatically detects energy meter readings. Image processing techniques including Gaussian Blur,Canny edge detection and Hough transforms were used. CNN based classification of different energy meters and LeNet based CNN model to detect digital energy meters were developed. [Link_to_project](https://www.google.com)
+Designed and developed an image processing and CNN based system which automatically detects energy meter readings. Image processing techniques including Gaussian Blur,Canny edge detection and Hough transforms were used. CNN based classification of different energy meters and LeNet based CNN model to detect digital energy meters were developed. [Link_to_project](https://github.com/sushruthn96/AMR-with-CV)
 
 ### Traffic guidance system using Computer Vision
-Prototyped a system which detects the traffic signals and signs, thereon stopping, moving and varying the speed of the vehicle accordingly. CLAHE, feature ex- traction techniques and Vision API were used. [Link_to_project]()
+Prototyped a system which detects the traffic signals and signs, thereon stopping, moving and varying the speed of the vehicle accordingly. CLAHE, feature ex- traction techniques and Vision API were used. [Link_to_project](https://github.com/sushruthn96/Automated_Traffic_Guidance_System)
 
 ### MNIST dataset classification using CNN
-MNIST classification and prediction model was trained using various custom architectures. Maximum accuracy of around 97.2% was obtained. [Link_to_project]()
+MNIST classification and prediction model was trained using various custom architectures. Maximum accuracy of around 97.2% was obtained. [Link_to_project](https://github.com/sushruthn96/Digit_classification_using_CNN)
 
 ###  PID controller for Pluto drone
 Designed a PID controller using ROS and its Python client (Rospy) to make a quadcopter navigate to its destination based on a marker placed on a land based 4 wheeled bot.
