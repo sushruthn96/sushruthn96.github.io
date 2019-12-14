@@ -37,7 +37,7 @@ MNIST classification and prediction model was trained using various custom archi
 Designed a PID controller using ROS and its Python client (Rospy) to make a quadcopter navigate to its destination based on a marker placed on a land based 4 wheeled bot.
 
 ### Biomedical feedback using Wireless sensor nodes
-Fabricated a wearable using CC3200 microprocessor which measures vitals of a patient and sends it to the doctor’s mobile application for real time monitoring including an emergency SMS when vitals fluctuate. [Link_to_project_video]()
+Fabricated a wearable using CC3200 microprocessor which measures vitals of a patient and sends it to the doctor’s mobile application for real time monitoring including an emergency SMS when vitals fluctuate. [Link_to_project_video](https://youtu.be/V2Wcln0M9FM)
 
 ### Supermarket billing software
 Built a basic version of supermarket billing software using Swings,Applets and multithreading to generate bills based on the items purchased. [Link_to_project]()
