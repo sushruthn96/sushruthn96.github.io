@@ -7,3 +7,5 @@ layout: default
 <p align="center">
 <img src="profile_pic.png" title="profile_pic" width="300" height="300"/>
 </p>
+
+<img style="max-width: 25; height: auto; " src="profile_pic.png" />
