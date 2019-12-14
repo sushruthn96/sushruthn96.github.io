@@ -5,7 +5,5 @@ layout: default
 # Hello, World!
 
 <p align="center">
-<img src="profile_pic.png" title="profile_pic" width="300" height="300"/>
+<img src="profile_pic.png" title="profile_pic" width="300" height="350"/>
 </p>
-
-<img style="max-width: 25; height: auto; " src="profile_pic.png" />
