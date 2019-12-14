@@ -3,5 +3,4 @@ layout: default
 ---
 
 # Hello, World!
-
-I've just pu
+[](profile_pic.png)
