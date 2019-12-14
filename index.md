@@ -34,14 +34,11 @@ Prototyped a system which detects the traffic signals and signs, thereon stoppin
 MNIST classification and prediction model was trained using various custom architectures. Maximum accuracy of around 97.2% was obtained. [Link_to_project](https://github.com/sushruthn96/Digit_classification_using_CNN)
 
 ###  PID controller for Pluto drone
-Designed a PID controller using ROS and its Python client (Rospy) to make a quadcopter navigate to its destination based on a marker placed on a land based 4 wheeled bot.
+Participated in a national level robotics competition named "E-yantra" conducted by IIT Bombay, India. We were given the challenge to make a quadcopter follow a land based bot and navigate smoothly to its destination. ROS was used to communicate with the quadcopter from our workstation. PID control algorithms (for stabilizing and flying the quadcopter) were developed in python.
 
 ### Biomedical feedback using Wireless sensor nodes
-Fabricated a wearable using CC3200 microprocessor which measures vitals of a patient and sends it to the doctor’s mobile application for real time monitoring including an emergency SMS when vitals fluctuate. [Link_to_project_video](https://youtu.be/V2Wcln0M9FM)
+As part of Texas Instruments India Innovation Challenge Design Contest where around 2000 different ideas were submitted by students cutting across different colleges , we developed a wearable module based on CC3200 microcontroller which measures real-time health parameters like heart rate, temperature and blood oxygen levels of a patient which can then be sent to the doctor’s smartphone using Wireless Sensor Node (WSN) technology via a centralized database. In addition, an alert message in case of abnormal health parameters is sent to the doctor’s smartphone. This way, remote monitoring of patients can be enabled and the archaic file system can be completely made obsolete. Our prototype module made the cut into the top 30 startup ideas to be incubated by Indian Institute of Management Bangalore (IIMB) and an initial monetary funding to the tune of 3 Lakh rupees was provided by Texas Instruments for fabricating the wearable module. [Link_to_project_video](https://youtu.be/V2Wcln0M9FM)
 
 ### Supermarket billing software
-Built a basic version of supermarket billing software using Swings,Applets and multithreading to generate bills based on the items purchased. [Link_to_project]()
-
-### 
-## Under Construction
+Built a basic version of supermarket billing software using Swings,Applets and multithreading in Java to generate bills based on the items purchased. [Link_to_project]()
 
