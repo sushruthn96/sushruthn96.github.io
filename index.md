@@ -25,10 +25,16 @@ Developed a Deep learning model to generate textual description of given image. 
 Various experiments for improving the model efficiency based on optimizers, GloVe word embeddings, LSTM hidden layer feature size , types of Decoder models (RNN, GRU, LSTM) were carried out. [Link_to_project](https://github.com/sushruthn96/Image_Captioning_ML_IP)
 
 ### Automated energy meter reading using machine learning and image processing.
-Designed and developed an image processing and CNN based system which automatically detects energy meter readings. Image processing techniques including Gaussian Blur,Canny edge detection and Hough transforms were used. CNN based classification of different energy meters and LeNet based CNN model to detect digital energy meters were developed. [Link_to_project](https://github.com/sushruthn96/AMR-with-CV)
+Devised a system which automatically detected the readings of different energy meters. Energy meters like needle based meters and digital meters which had number displays were considered.
+
+To classify meters based on needles and digital displays , a CNN based model  using a custom dataset was developed. Then, for needle-based meters, image preprocessing techniques like edge detection algorithms, Hough line transforms and some trigonometric functions were used to find the readings. On the other hand, Chars74k dataset was used to train a CNN based classifier which in turn was used to detect the numbers in digital display.
+
+Also a GUI interface in Python using Tkinter library for displaying real-time detection of energy meter readings was developed. This project comes a long way in helping to automate the readings of energy meters which cannot be taken out in time critical applications. [Link_to_project](https://github.com/sushruthn96/AMR-with-CV)
 
 ### Traffic guidance system using Computer Vision
-Prototyped a system which detects the traffic signals and signs, thereon stopping, moving and varying the speed of the vehicle accordingly. CLAHE, feature ex- traction techniques and Vision API were used. [Link_to_project](https://github.com/sushruthn96/Automated_Traffic_Guidance_System)
+The project aims to automatically turn off the vehicle when the traffic signal becomes red and turn it on when the signal shows green. Further the system varies the speed of the vehicle based on the traffic signs which indicate speed limit. Raspberry Pi was used on a 4 wheeled bot to simulate the system.
+
+To start and stop the vehicle concepts such as CLAHE, Hough circle transform and HSV color transforms were used. Google Vision API was used to detect the traffic speed limit and the subsequent speed control was achieved through the Raspberry Pi interface to the 4 wheeled bot. [Link_to_project](https://github.com/sushruthn96/Automated_Traffic_Guidance_System)
 
 ### MNIST dataset classification using CNN
 MNIST classification and prediction model was trained using various custom architectures. Maximum accuracy of around 97.2% was obtained. [Link_to_project](https://github.com/sushruthn96/Digit_classification_using_CNN)
