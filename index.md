@@ -48,3 +48,6 @@ As part of Texas Instruments India Innovation Challenge Design Contest where aro
 ### Supermarket billing software
 Built a basic version of supermarket billing software using Swings,Applets and multithreading in Java to generate bills based on the items purchased. [Link_to_project]()
 
+### Grab the garb
+As part of a 24 hour hacakthon conducted by Tricon Infotech, India, we developed an android app which helps in garbage collection management. It makes the garbage collection system more transparent between the residents and the muncipal authority. [Link_to_project](https://github.com/sushruthn96/grab_the-garb)
+
