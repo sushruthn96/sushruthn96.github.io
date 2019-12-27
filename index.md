@@ -34,7 +34,7 @@ Also a GUI interface in Python using Tkinter library for displaying real-time de
 ### Multi Object detection and localization using SSD
 Implemented single shot detector (SSD) detector network to detect and localize objects all at once in a given image. VGG-16 architecture was used as the base network on which extra convolution layers were added to detect higher level features and identify it. NMS algorithm was used at the end to get the relevant bounding boxes.
 
-The loss function was a combination of both classification and regression head of the netowrk. Various experiments for improving the model accuracy based on optimizers, batch size, learning rate and momentum were carried out. Finally a random video was used to test the model efficency. 
+The loss function was a combination of both classification and regression head of the network. Various experiments for improving the model accuracy based on optimizers, batch size, learning rate and momentum were carried out. Finally a random video was used to test the model efficiency. 
 [Link to project](https://github.com/sushruthn96/multi_obj_detection_ssd) 
 
 ### Traffic guidance system using Computer Vision
