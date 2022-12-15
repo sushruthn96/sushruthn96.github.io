@@ -18,9 +18,11 @@ layout: default
 ### Structure Aware and Class Balanced 3D Object Detection on nuScenes Dataset.[Click here](https://arxiv.org/pdf/2205.12519.pdf)
 
 ## Patents
-TBD .
+## TBD.
 
 ## Academic projects
+### To be updated. Currenly listing projects till 2019.
+
 ### Image Captioning using Neural Networks
 Developed a Deep learning model to generate textual description of given image. Used Resnet-152 based CNN model (Encoder) to extract features from training images. These features were feeded into an LSTM network (Decoder) to sequentially generate captions of images. This project was based on "Show and tell" model.
 
