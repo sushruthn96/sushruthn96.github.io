@@ -6,6 +6,9 @@ layout: default
 <img src="profile_pic.png" title="profile_pic" width="300" height="350"/>
 </p>
 
+## Table of Contents
+[Publications](./publications.md)
+
 ## Publications
 ### Look both ways: Bidirectional visual sensing for automatic multi-camera registration. [[paper]](https://arxiv.org/pdf/2208.07362.pdf) [[video]](https://youtu.be/R3raY0YA1-E) <span style="font-size:smaller;">(***Submitted to ICRA 2023***)</span>
  
