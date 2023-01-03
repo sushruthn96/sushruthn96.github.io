@@ -7,6 +7,9 @@ Analyzed GDP as an indicator of socio-economic factors of a country. Data analys
 ### Visual Inertial SLAM <span style="font-size:smaller;"> (2020) </span>
 Extended Kalman filter(EKF) based Visual Inertial SLAM was developed to build the 2d map of the environment as well as the vehicle track. IMU-based localization via EKF Prediction was performed to predict vehcile track. This was used along with camera perspective projection to perfom landmark/environment mapping using EKF update step. Joint IMU and landmark update step to update/correct the vehicle track and landmark positions calculated. [[report]](https://drive.google.com/file/d/1ynLOxJdxpdop2PQmQ7KxPXax1dEBkWQe/view)
 
+### Particle filter SLAM <span style="font-size:smaller;"> (2020) </span>
+Particle filter based robot trajectory and freespace prediction. Constant velocity based motion model is used. LiDAR scan based correlation function w.r.t  current map is used for observation model. Resampling using stratified re-sampling algorithm is followed. [[report]](https://drive.google.com/file/d/1T9BFatQq9OlhVmcnTG-TcAd2aHwh3c2b/view?usp=sharing)
+
 ### Image Captioning using Neural Networks <span style="font-size:smaller;"> (2019) </span>
 Developed a Deep learning model to generate textual description of given image. Used Resnet-152 based CNN model (Encoder) to extract features from training images. These features were feeded into an LSTM network (Decoder) to sequentially generate captions of images. This project was based on "Show and tell" model.
 
