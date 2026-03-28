@@ -19,6 +19,7 @@ layout: default
 - Apr 2023 - Senior Perception Research Engineer at [Ford Motor Company](https://www.ford.com/)
 - 2022 - Paper review at [ICRA 2022](https://ewh.ieee.org/soc/ras/conf/fullysponsored/icra/2022/icra2022.org/index.html)
 - Dec 2022 - Session chair at 3rd Ford AI/ML Conference 2022
+- Oct 2021 - Guest at [IEEE SJCE Alumni podcast](https://www.youtube.com/watch?v=IlxzdaT5Nno)
 - Jul 2021 - Perception Reserach Engineer at [Ford Motor Company](https://www.ford.com/)
 - Jun 2021 - Graduated from [UC San Diego](https://ucsd.edu/)
 - Mar 2021 - Artificial Intelligence intern at [Jabra](https://www.jabra.com/business/video-conferencing)
